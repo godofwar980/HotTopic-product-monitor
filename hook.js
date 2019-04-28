@@ -1,5 +1,5 @@
 const rp = require("request-promise-native");
-const webhook = "https://discordapp.com/api/webhooks/571911600164831251/NfptyLSbPXNqyw8Qq4L4WWDf4LRS5TnUEOipkSdW1V6kJlHqGLlIhmdSf442JG_pJHJS";
+const webhook = "YOUR DISCORD WEBHOOK HERE";
 
 class Hook {
     constructor(event,item,url){
